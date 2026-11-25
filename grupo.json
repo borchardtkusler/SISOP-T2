@@ -1,0 +1,13 @@
+{
+  "integrantes": [
+    {"nome": "Betina Borchardt Kusler"},
+    {"nome": "Gabriella Schmidt"},
+    {"nome": "Lucas Goettert"},
+    {"nome": "Lucas Marchese"}
+  ],
+  "repositorio": "https://github.com/borchardtkusler/SISOP-T2",
+  "modulos": ["M1", "M2", "M6"],
+  "integracao": true,
+  "bonus_flash": false,
+  "observacoes": "Grupo de 4: núcleo, módulos M1 (cache), M2 (escalonamento avançado), M6 (alocação) e integração."
+}
